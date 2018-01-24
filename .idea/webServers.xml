@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="5901f372-3a73-40c0-9488-3f350d2f9387" name="centos7" url="http://92.222.68.110">
+        <fileTransfer host="92.222.68.110" port="22" accessType="SFTP" password="dfc8df92dfcddfcedfe7dfdadfcedfecdfe8dfcbdfcddfc4dfc5dff5df9bdf9e" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="6c3d1772-fd54-4806-ba18-4597ab7d2213" name="centos6" url="http://212.227.89.218">
+        <fileTransfer host="212.227.89.218" port="22" accessType="SFTP" password="dfe8dfcbdfcddfc4dfc5dff5df9bdf9edfd8dfc5dfc5dfde" username="root">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
